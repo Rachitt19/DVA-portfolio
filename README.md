@@ -1,6 +1,6 @@
 # Rachit Gupta | DVA Specialist & Full-Stack Developer
 
-🌐 **Live Portfolio:** [portfolio-dva-three.vercel.app](https://portfolio-dva-three.vercel.app/)
+🌐 **Live Portfolio:** dva-portfolio-six-plum.vercel.app
 
 rachit.gupta2024@nst.rishihood.edu.in | [GitHub](https://github.com/Rachitt19) | [LinkedIn](https://www.linkedin.com/in/rachit-gupta19/)
 
